@@ -1,0 +1,10 @@
+{
+    "release_date": "2024-02-14",
+    "version": "Beta 1.0",
+    "description": "Zibra is a web application for importing, exporting and editing data.",
+    "author": "Teo Oikonomidis",
+    "changelog": [
+        {"version": "Beta 1.0", "changes": ["Release Date"]}
+    ]
+  }
+  
